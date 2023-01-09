@@ -220,7 +220,7 @@ enableEmoji = true
         XMPP = ""
         Matrix = ""
         Bilibili = "15452558"
-        Email = "liuyang8443@qq.com"
+        Email = "ns-cn@qq.com"
         RSS = true
         [languages.en.params.social.Mastodon]
           id = "@xxxx"
@@ -1075,7 +1075,7 @@ enableEmoji = true
 # 作者配置
 [author]
   name = "ns-cn"
-  email = "liuyang8443@qq.com"
+  email = "ns-cn@qq.com"
   link = ""
 
 # Sitemap config
