@@ -141,7 +141,7 @@ enableEmoji = true
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
-          avatarURL = "/images/avatar.png"
+          avatarURL = "/images/avatar.webp"
           # title shown in home page (HTML format is supported)
           title = ""
           # subtitle shown in home page
@@ -219,7 +219,7 @@ enableEmoji = true
         Gitea = ""
         XMPP = ""
         Matrix = ""
-        Bilibili = "15452558"
+        Bilibili = ""
         Email = "ns-cn@qq.com"
         RSS = true
         [languages.en.params.social.Mastodon]
@@ -350,7 +350,7 @@ enableEmoji = true
           # Gravatar 邮箱，用于优先在主页显示的头像
           gravatarEmail = ""
           # 主页显示头像的 URL
-          avatarURL = "/images/avatar.png"
+          avatarURL = "/images/avatar.webp"
           # 主页显示的网站标题 (支持 HTML 格式)
           title = ""
           # 主页显示的网站副标题
@@ -546,7 +546,7 @@ enableEmoji = true
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
-          avatarURL = "/images/avatar.png"
+          avatarURL = "/images/avatar.webp"
           # title shown in home page (HTML format is supported)
           title = ""
           # subtitle shown in home page
@@ -955,7 +955,7 @@ enableEmoji = true
       # 出版者信息
       [params.page.seo.publisher]
         name = "xxxx"
-        logoUrl = "/images/avatar.png"
+        logoUrl = "/images/avatar.webp"
 
   # TypeIt config
   # TypeIt 配置
