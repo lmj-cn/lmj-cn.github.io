@@ -277,6 +277,14 @@ enableEmoji = true
         title = ""
         weight = 3
       [[languages.zh-cn.menu.main]]
+        identifier = "opensource"
+        pre = ""
+        post = ""
+        name = "开源项目"
+        url = "/opensource/"
+        title = ""
+        weight = 3
+      [[languages.zh-cn.menu.main]]
         identifier = "about"
         pre = ""
         post = ""
