@@ -200,7 +200,7 @@ enableEmoji = true
         Steam = ""
         Twitch = ""
         Strava = ""
-        Skype = "live:844327696"
+        Skype = ""
         Whatsapp = ""
         Zhihu = ""
         Douban = ""
@@ -818,13 +818,13 @@ enableEmoji = true
     # 文章页面的分享信息设置
     [params.page.share]
       enable = true
-      Twitter = true
-      Facebook = true
+      Twitter = false
+      Facebook = false
       Linkedin = false
       Whatsapp = false
       Pinterest = false
       Tumblr = false
-      HackerNews = true
+      HackerNews = false
       Reddit = false
       VK = false
       Buffer = false
