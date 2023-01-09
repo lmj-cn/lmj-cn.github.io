@@ -1,5 +1,5 @@
 ---
-title: "Goroutine in Java"
+title: "Routine in Java"
 date: 2022-07-15T11:33:00+08:00
 draft: true
 tags: [Language]

@@ -4,3 +4,4 @@ material
 public/
 .hugo_build.lock
 ns-cn.github.io.code-workspace
+.hintrc
