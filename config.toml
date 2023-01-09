@@ -11,7 +11,7 @@ themesDir = "themes"
 
 # website title
 # 网站标题
-title = "ns-cn's Blog"
+title = "唐毓俊个人站"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -308,7 +308,7 @@ enableEmoji = true
       # 应用图标配置
       [languages.zh-cn.params.app]
         # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-        title = "ns-cn's Blog"
+        title = "ns-cn"
         # 是否隐藏网站图标资源链接
         noFavicon = false
         # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
@@ -666,7 +666,7 @@ enableEmoji = true
       logo = ""
       # title name
       # 标题名称
-      name = "ns-cn's Blog"
+      name = "ns-cn"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       #pre = "<i class='far fa-kiss-wink-heart fa-fw'></i>"
@@ -868,10 +868,10 @@ enableEmoji = true
       # Gitalk 评论系统设置 (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
         enable = false
-        owner = "ns-cn-faker"
-        repo = "comments"
-        clientId = "bf54a1f5d5dea1e06c54"
-        clientSecret = "34a2e203f7f90401e94c8c79b51afa8d01d00186"
+        owner = ""
+        repo = ""
+        clientId = ""
+        clientSecret = ""
       # Valine comment config (https://github.com/xCss/Valine)
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
