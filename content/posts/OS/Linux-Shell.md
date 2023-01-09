@@ -10,7 +10,8 @@ categories: [OS]
 ## 引入
 一个运行在操作系统之上的应用程序必须通过操作系统提供的统一接口，而这部分接口大多使用C/C++定义，应用程序通过固定编码调用操作系统统一封装的接口实现对内核、系统库或三方库的调用。在日常使用中编码势必带来诸多不便，因此Shell运势而生。
 Shell：文本命令解析器，通过交互式解析用户输入的字符串命令或则文件提供的命令集，实现对应用程序、系统程序或内核的调用。
-![进程与OS的关系.png](https://cdn.nlark.com/yuque/0/2022/png/22267852/1668737755114-b472a04b-96dd-4f5c-b480-894b7187da59.png#averageHue=%234d4c47&clientId=u4eee7ce9-e047-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=uaeb67d68&margin=%5Bobject%20Object%5D&name=%E8%BF%9B%E7%A8%8B%E4%B8%8EOS%E7%9A%84%E5%85%B3%E7%B3%BB.png&originHeight=279&originWidth=734&originalType=binary&ratio=1&rotation=0&showTitle=false&size=36023&status=done&style=none&taskId=u9b3edf0d-00d3-4bf3-8a42-9e9ad4f9f0c&title=)
+
+![进程与OS的关系.png](https://cdn.nlark.com/yuque/0/2022/png/22267852/1668737755114-b472a04b-96dd-4f5c-b480-894b7187da59.png)
 ## 一、常见Shell
 | **操作系统** | **常用Shell** |
 | --- | --- |
