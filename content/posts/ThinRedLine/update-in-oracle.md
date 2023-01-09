@@ -10,8 +10,6 @@ categories: [DB]
 
 > 在Oracle中从关联表根据关联条件取满足条件的其中一条更新本表的部分字段
 
-### 场景解读
-
 表1：学生Student表
 
 |id|name|topSubject|topRank|
