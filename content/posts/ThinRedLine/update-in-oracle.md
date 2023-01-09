@@ -113,5 +113,5 @@ WHEN MATCHED THEN
 
 该语句执会执行两次整表扫描，分别为`merge into Student`、临时表建立`USING(select * ...)temp`，
 
-> - 相比update-with方式，merge-into提供了其他的条件在的更多操作，
+> - 相比update-with方式，merge-into提供了其他的条件下的更多操作，
 > - 但merge-into在其他数据库(MySQL、PostgreSQL等)中不被支持。
