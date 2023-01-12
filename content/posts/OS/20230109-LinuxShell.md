@@ -2,7 +2,7 @@
 title: "Linux Shell"
 date: 2023-01-09T10:18:37+08:00
 draft: true
-tags: [OS]
+tags: [OS,DoItYourself]
 categories: [OS]
 ---
 
