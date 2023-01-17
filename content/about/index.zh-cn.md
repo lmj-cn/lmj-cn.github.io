@@ -6,10 +6,7 @@ draft: false
 lightgallery: true
 ---
 
-## 关于
-
-
 <div align="center">
   <h1>🌱🌱🌱健康的要死🌱🌱🌱</h1>
-<h6>⚡⚡折腾,避免形式重复；📖📖学习，避免内容重复</h6>
+  <h6>⚡⚡折腾,避免形式重复；📖📖学习，避免内容重复</h6>
 </div>
