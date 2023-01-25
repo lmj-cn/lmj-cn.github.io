@@ -3,7 +3,7 @@ title: "记一种通过spoof Mac在Mac平台更改MAC地址的方法"
 date: 2023-01-23T16:47:38+08:00
 draft: true
 tags: [OS,Mac,ThinRedLine]
-categories: [OS]
+categories: [ThinRedLine]
 ---
 
 ## 介绍
