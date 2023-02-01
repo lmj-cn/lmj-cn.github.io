@@ -40,7 +40,7 @@ lightgallery: true
 - Mac软件：Mac([onemac](https://onemac.app/)、~~macwk~~、[torrentmac](https://www.torrentmac.net/)、[appstorrent](https://appstorrent.ru/)、[digit77](https://www.digit77.com/macapps/)、[佛系软件](https://foxirj.com/)、[xxmac](http://xxmac.com)、[applex](https://www.applex.net/)、[macyy](https://www.macyy.cn/))、Win(~~winwk~~)
 - 下载类：[git下载加速](https://shrill-pond-3e81.hunsh.workers.dev/)
 - 在线互传：[轻松传](https://easychuan.cn/)、[空投](https://airportal.cn/)
-- 资料书籍：~~[zlib](https://zh.book4you.org/)([备](https://zh.1lib.org/))~~、[bookstack](https://www.bookstack.cn/)、[ireader](https://www.ireader.com.cn/)、[libgen](https://libgen.rocks)([1](https://libgen.unblockit.nz/),[2](http://libgen.gs/))、[booksdl](https://cdn1.booksdl.org/)、[upyunso](https://www.upyunso.com/)
+- 资料书籍：~~[zlib](https://zh.book4you.org/)([备](https://zh.1lib.org/))~~、[bookstack](https://www.bookstack.cn/)、[ireader](https://www.ireader.com.cn/)、[libgen](https://libgen.rocks)([1](https://libgen.unblockit.nz/),[2](http://libgen.gs/))、[booksdl](https://cdn1.booksdl.org/)、[upyunso](https://www.upyunso.com/)、[淘链客](https://toplinks.cc/s)
 
 ## 在线
 
