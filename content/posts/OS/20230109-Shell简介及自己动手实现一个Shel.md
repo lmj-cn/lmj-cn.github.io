@@ -1,9 +1,10 @@
 ---
 title: "Shell简介及自己动手实现一个Shell"
 date: 2023-01-09T10:18:37+08:00
-draft: true
+draft: false
 tags: [OS,Shell,DoItYourself,Go]
 categories: [OS]
+url: /posts/OS/shell-doit-yourself/
 ---
 
 
