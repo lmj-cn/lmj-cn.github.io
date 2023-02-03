@@ -702,7 +702,7 @@ enableEmoji = true
     custom = ''
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
-    hugo = false
+    hugo = true
     # whether to show copyright info
     # 是否显示版权信息
     copyright = true
@@ -863,7 +863,7 @@ enableEmoji = true
       Renren = false
       Myspace = false
       Blogger = false
-      Baidu = false
+      Baidu = true
       Odnoklassniki = false
       Evernote = false
       Skype = false
