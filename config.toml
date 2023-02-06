@@ -269,11 +269,11 @@ enableEmoji = true
         title = ""
         weight = 3
       [[languages.zh-cn.menu.main]]
-        identifier = "pmp"
+        identifier = "ruankao"
         pre = ""
         post = ""
-        name = "PMP"
-        url = "/pmp/"
+        name = "软考"
+        url = "/ruankao/"
         title = ""
         weight = 4
       [[languages.zh-cn.menu.main]]
