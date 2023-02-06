@@ -272,9 +272,9 @@ enableEmoji = true
         identifier = "ruankao"
         pre = ""
         post = ""
-        name = "软考"
+        name = "软考站"
         url = "/ruankao/"
-        title = ""
+        title = "提供软件从业者认证考试相关资料"
         weight = 4
       [[languages.zh-cn.menu.main]]
         identifier = "start"
