@@ -84,7 +84,7 @@ git clone https://github.com/ns-cn/ns-cn.github.io.git
 
 ### 3、新建文章
 
-> 全局文章均保存在content目录，可新建目录自行分类
+> 全局文章均保存在content/posts目录，可新建目录自行分类
 
 在仓库根目录使用命令`hugo new content/posts/***.md`或新建markdown文件，文件大致内容
 
