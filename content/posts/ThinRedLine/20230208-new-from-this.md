@@ -1,7 +1,7 @@
 ---
 title: "基于本站快速搭建自己的网站-New from this."
 date: 2023-02-08T09:56:29+08:00
-draft: true
+draft: false
 tags: [DoItYourself]
 categories: [ThinRedLine]
 url: /posts/thinreadline/new-from-this/
