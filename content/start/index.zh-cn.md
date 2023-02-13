@@ -16,14 +16,10 @@ lightgallery: true
 
 ## 全能
 - 收录：[全能](https://nbwzcom.gitbook.io/nb/)([1](https://nbwz.cc),[2](http://nbwz.vip/),[3](https://www.nbwz.com/))、[TBOXN](https://www.tboxn.com/)
-
-## 讯息
-
 - 邮件：[QQ](http://mail.qq.com)([企业](https://exmail.qq.com/))、[163](https://mail.163.com/)、[88](https://www.88.com/)
 - IT：[inoreader](https://www.innoreader.com/)、[IT之家](http://ithome.com)、[少数派](https://sspai.com/)
 - 聚合：[鱼塘](https://mo.fish/)、[多摸鱼](https://duomoyu.com/)
 - 百货：[JD](http://jd.com)、[淘宝](http://taobao.com)、[什么值得买](http://smzdm.com)
-- 书籍：[孔夫子旧书网](http://www.kongfz.com/)、[缺书网](http://queshu.com)
 
 ## 技 术
 
@@ -44,6 +40,7 @@ lightgallery: true
 - 下载类：[git下载加速](https://shrill-pond-3e81.hunsh.workers.dev/)
 - 在线互传：[轻松传](https://easychuan.cn/)、[空投](https://airportal.cn/)
 - 资料书籍：~~[zlib](https://zh.book4you.org/)([备](https://zh.1lib.org/))~~、[bookstack](https://www.bookstack.cn/)、[ireader](https://www.ireader.com.cn/)、[libgen](https://libgen.rocks)([1](https://libgen.unblockit.nz/),[2](http://libgen.gs/))、[booksdl](https://cdn1.booksdl.org/)、[upyunso](https://www.upyunso.com/)、[淘链客](https://toplinks.cc/s)
+- 书籍：[孔夫子旧书网](http://www.kongfz.com/)、[缺书网](http://queshu.com)
 
 ## 在线
 
