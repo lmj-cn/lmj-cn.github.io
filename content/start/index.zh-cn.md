@@ -45,8 +45,6 @@ lightgallery: true
 ## 在线
 
 - 工作：[部署](http://172.20.21.1:8080/)、[Seatable](http://seatable.cn)、[R0](http://172.30.1.3:8081/ZGGG/index.html#/Login).[广州](http://172.30.1.3:8081/ZGGG/index.html).[重庆](http://172.30.1.13:8081/ZUCK/index.html).[杭州](http://172.30.2.206:8081/ZSHC/index.html#/Login).[贵阳](http://172.30.1.179:8081/ZUGY/index.html).[深圳](http://172.30.2.68/ZGSZ/index.html).[天府](https://172.20.21.122:8081/ZUTF/login.html).[北海](http://172.30.2.239:8081/ZGBH/index.html).[郑州](http://172.30.2.153:8081/ZHCC/index.html).[南昌](http://172.30.1.243:8081/ZSCN/index.html).[连云港](http://172.30.3.25:8081/ZSLG/index.html).[榆林](http://172.30.1.32/ZLYL/index.html).[湛江](http://172.30.2.113:8081/ZGZJ/index.html)
-- 文档类：[Seatable](https://cloud.seatable.cn)(替代品：[AirTable](https://airtable.com/))、[为知](https://www.wiz.cn/zh-cn)、[石墨](https://shimo.im/)、[语雀](https://www.yuque.com/)、私有化：[seatable私有化部署](https://docs.seatable.cn/published/seatable-manual/home.md)、[为知笔记私有化部署](https://www.wiz.cn/zh-cn/enterprise-private-cloud.html)
-
 - 创作类：[在线PS](https://www.uupoop.com/)、[打字](https://dazi.kukuw.com/)、[GameModels3D](https://gamemodels3d.com/)
-- 快链：[SwiftUI](https://www.bilibili.com/video/BV1wq4y1D7Us)、[V2Free](http://w1.v2dns.xyz)
-- 脚本：[AC-Baidu](https://greasyfork.org/zh-TW/scripts/14178)、[B站挂机](https://github.com/andywang425/BLTH)、[自动翻页](https://github.com/XIU2/UserScript)、[VIP破解](https://greasyfork.org/zh-CN/scripts/390952)
+- 办公：[PDF](https://www.ilovepdf.com/zh-cn)、[Seatable](https://cloud.seatable.cn)(替代品：[AirTable](https://airtable.com/))、[为知](https://www.wiz.cn/zh-cn)、[石墨](https://shimo.im/)、[语雀](https://www.yuque.com/)
+- 脚本：[AC-Baidu](https://greasyfork.org/zh-TW/scripts/14178)、[B站挂机](https://github.com/andywang425/BLTH)、[自动翻页](https://github.com/XIU2/UserScript)、[VIP破解](https://greasyfork.org/zh-CN/scripts/390952)、[V2Free](http://w1.v2dns.xyz)
