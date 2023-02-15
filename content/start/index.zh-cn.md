@@ -12,13 +12,14 @@ lightgallery: true
 - 视频：[影视工厂](https://down.ysgc.xyz/?sy)([1](https://www.ysgc.tv/),[2](https://www.ysgc.cc),[3](https://www.ysgc.fun))、[神马电影](https://www.smdyy.cc/)([1](https://www.6080x.cc/))、[双十电影](https://www.fabu1010.com/)([1](https://www.1010dy1.com/))、[看片狂](https://whereiskpkuang.com/)([1](https://kpkuang.gitbook.io/new/))、[白嫖者](https://www.bpzhe.com/)、[火火影视](https://www.huohuo99.com/)、[剧白白](https://www.jubaibai.vip/)([1](https://www.jubaibai.cc/))、[牛马TV](http://www.niumatv.com/)
 - 正版：[虎牙](http://www.huya.com/)([一起看](https://www.huya.com/g/seeTogether))、[鱼](http://www.douyu.com)、[爱](http://iqiyi.com/)、[优](https://www.youku.com/)、[芒](https://www.mgtv.com/)、[腾](http://v.qq.com/)
 - 音乐：[MyFreeMp3](http://tools.liumingye.cn/music/)、[网易云](https://music.163.com/)、[QQ音乐](http://music.qq.com/)
-- 游戏：[crazy](https://www.crazygames.com/)、[yikm](https://www.yikm.net/)、[zczc](https://dos.zczc.cz/)、[xxxxx520](https://xxxxx520.com/)、[paco](https://www.pacogames.com/)、[kbh](https://kbhgames.com/)、[wo1wan](https://play.wo1wan.com/)、[io](https://iogames.space/)、[poki](https://poki.com/)、[y8](https://y8.com/)、[8090](http://www.return8090.com)、[famicn](http://www.famicn.com)
+- 游戏：[crazy](https://www.crazygames.com/)、[yikm](https://www.yikm.net/)、[zczc](https://dos.zczc.cz/)、[xxxxx520](https://xxxxx520.com/)、[paco](https://www.pacogames.com/)、[kbh](https://kbhgames.com/)、[wo1wan](https://play.wo1wan.com/)、[io](https://iogames.space/)、[poki](https://poki.com/)、[y8](https://y8.com/)、[8090](http://www.return8090.com)、[famicn](http://www.famicn.com)、[GameModels3D](https://gamemodels3d.com/)
 
 ## 全能
+
 - 收录：[全能](https://nbwzcom.gitbook.io/nb/)([1](https://nbwz.cc),[2](http://nbwz.vip/),[3](https://www.nbwz.com/))、[TBOXN](https://www.tboxn.com/)
 - 邮件：[QQ](http://mail.qq.com)([企业](https://exmail.qq.com/))、[163](https://mail.163.com/)、[88](https://www.88.com/)
 - IT：[inoreader](https://www.innoreader.com/)、[IT之家](http://ithome.com)、[少数派](https://sspai.com/)
-- 聚合：[鱼塘](https://mo.fish/)、[多摸鱼](https://duomoyu.com/)
+- 摸鱼：[鱼塘](https://mo.fish/)、[多摸鱼](https://duomoyu.com/)
 - 百货：[JD](http://jd.com)、[淘宝](http://taobao.com)、[什么值得买](http://smzdm.com)
 
 ## 技 术
@@ -44,7 +45,7 @@ lightgallery: true
 
 ## 在线
 
-- 工作：[部署](http://172.20.21.1:8080/)、[Seatable](http://seatable.cn)、[R0](http://172.30.1.3:8081/ZGGG/index.html#/Login).[广州](http://172.30.1.3:8081/ZGGG/index.html).[重庆](http://172.30.1.13:8081/ZUCK/index.html).[杭州](http://172.30.2.206:8081/ZSHC/index.html#/Login).[贵阳](http://172.30.1.179:8081/ZUGY/index.html).[深圳](http://172.30.2.68/ZGSZ/index.html).[天府](https://172.20.21.122:8081/ZUTF/login.html).[北海](http://172.30.2.239:8081/ZGBH/index.html).[郑州](http://172.30.2.153:8081/ZHCC/index.html).[南昌](http://172.30.1.243:8081/ZSCN/index.html).[连云港](http://172.30.3.25:8081/ZSLG/index.html).[榆林](http://172.30.1.32/ZLYL/index.html).[湛江](http://172.30.2.113:8081/ZGZJ/index.html)
-- 创作类：[在线PS](https://www.uupoop.com/)、[打字](https://dazi.kukuw.com/)、[GameModels3D](https://gamemodels3d.com/)
+- 工作：[部署](http://172.20.21.1:8080/)、[Seatable](https://cloud.seatable.cn)、[R0](http://172.30.1.3:8081/ZGGG/index.html#/Login).[广州](http://172.30.1.3:8081/ZGGG/index.html).[重庆](http://172.30.1.13:8081/ZUCK/index.html).[杭州](http://172.30.2.206:8081/ZSHC/index.html#/Login).[贵阳](http://172.30.1.179:8081/ZUGY/index.html).[深圳](http://172.30.2.68/ZGSZ/index.html).[天府](https://172.20.21.122:8081/ZUTF/login.html).[北海](http://172.30.2.239:8081/ZGBH/index.html).[郑州](http://172.30.2.153:8081/ZHCC/index.html).[南昌](http://172.30.1.243:8081/ZSCN/index.html).[连云港](http://172.30.3.25:8081/ZSLG/index.html).[榆林](http://172.30.1.32/ZLYL/index.html).[湛江](http://172.30.2.113:8081/ZGZJ/index.html)
+- 创作类：[在线PS](https://www.uupoop.com/)、[打字](https://dazi.kukuw.com/)
 - 办公：[PDF](https://www.ilovepdf.com/zh-cn)、[Seatable](https://cloud.seatable.cn)(替代品：[AirTable](https://airtable.com/))、[为知](https://www.wiz.cn/zh-cn)、[石墨](https://shimo.im/)、[语雀](https://www.yuque.com/)
 - 脚本：[AC-Baidu](https://greasyfork.org/zh-TW/scripts/14178)、[B站挂机](https://github.com/andywang425/BLTH)、[自动翻页](https://github.com/XIU2/UserScript)、[VIP破解](https://greasyfork.org/zh-CN/scripts/390952)、[V2Free](http://w1.v2dns.xyz)
