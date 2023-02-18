@@ -12,7 +12,7 @@ lightgallery: true
 - 视频：[影视工厂](https://down.ysgc.xyz/?sy)([1](https://www.ysgc.tv/),[2](https://www.ysgc.cc),[3](https://www.ysgc.fun))、[神马电影](https://www.smdyy.cc/)([1](https://www.6080x.cc/))、[双十电影](https://www.fabu1010.com/)([1](https://www.1010dy1.com/))、[看片狂](https://whereiskpkuang.com/)([1](https://kpkuang.gitbook.io/new/))、[白嫖者](https://www.bpzhe.com/)、[火火影视](https://www.huohuo99.com/)、[剧白白](https://www.jubaibai.vip/)([1](https://www.jubaibai.cc/))、[牛马TV](http://www.niumatv.com/)
 - 正版：[虎牙](http://www.huya.com/)([一起看](https://www.huya.com/g/seeTogether))、[鱼](http://www.douyu.com)、[爱](http://iqiyi.com/)、[优](https://www.youku.com/)、[芒](https://www.mgtv.com/)、[腾](http://v.qq.com/)
 - 音乐：[MyFreeMp3](http://tools.liumingye.cn/music/)、[网易云](https://music.163.com/)、[QQ音乐](http://music.qq.com/)
-- 游戏：[crazy](https://www.crazygames.com/)、[yikm](https://www.yikm.net/)、[zczc](https://dos.zczc.cz/)、[xxxxx520](https://xxxxx520.com/)、[paco](https://www.pacogames.com/)、[kbh](https://kbhgames.com/)、[wo1wan](https://play.wo1wan.com/)、[io](https://iogames.space/)、[poki](https://poki.com/)、[y8](https://y8.com/)、[8090](http://www.return8090.com)、[famicn](http://www.famicn.com)、[GameModels3D](https://gamemodels3d.com/)
+- 游戏：[crazy](https://www.crazygames.com/)、[yikm](https://www.yikm.net/)、[zczc](https://dos.zczc.cz/)、[xxxxx520](https://xxxxx520.com/)、[paco](https://www.pacogames.com/)、[kbh](https://kbhgames.com/)、[wo1wan](https://play.wo1wan.com/)、[io](https://iogames.space/)、[poki](https://poki.com/)、[y8](https://y8.com/)、[8090](http://www.return8090.com)、[famicn](http://www.famicn.com)
 
 ## 全能
 
@@ -31,7 +31,7 @@ lightgallery: true
 - 知名：[Gitee](http://gitee.com)（[开源中国](https://www.oschina.net/)）、[Github](http://github.com)([加速](https://raw.hellogithub.com/))、[CSDN](http://csdn.net)、[掘金](https://juejin.cn/)、[gitchat](https://gitbook.cn/)、[SOF](https://stackoverflow.com/)、[Vercel](https://vercel.com/)、[sonatype](https://s01.oss.sonatype.org/)、[墨菲安全](http://murphysec.com)
 - Go：[topgoer](http://www.topgoer.com/)、[awesome-go](https://gitee.com/ObrookO/awesome-go-cn)
 - 智能：[ChatGpt](https://aigcfun.com/)
-- 素材：[AR模型](https://opengameart.org/)、[vue素材](https://madewithvuejs.com/)
+- 素材：[AR模型](https://opengameart.org/)、[vue素材](https://madewithvuejs.com/)、[GameModels3D](https://gamemodels3d.com/)
 - 工具：[cheat.sh](http://cheat.sh/)、[算法可视化](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)、[网易云接口](https://netease-cloud-music-api-ns-cn.vercel.app/)、正则([可视化](https://jex.im/regulex/),[测试](https://tool.oschina.net/regex),[菜鸟](https://c.runoob.com/front-end/854/))
 - 区块链：[原理演示](https://andersbrownworth.com/blockchain/)、[以太坊测试](http://remix.ethereum.org/)
 
