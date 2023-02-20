@@ -3,7 +3,7 @@ material
 .DS_Store
 public/
 .hugo_build.lock
-ns-cn.github.io.code-workspace
+lmj-cn.github.io.code-workspace
 .hintrc
 content/posts/local/
 .idea/
