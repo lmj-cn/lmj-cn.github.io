@@ -1,4 +1,4 @@
-baseURL = "https://ns-cn.github.io"
+baseURL = "https://lmj-cn.github.io"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "zh-cn"
@@ -11,7 +11,7 @@ themesDir = "themes"
 
 # website title
 # 网站标题
-title = "唐毓俊个人站"
+title = "罗穆健个人站"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -88,7 +88,7 @@ enableEmoji = true
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://github.com/ns-cn"
+        url = "https://github.com/lmj-cn"
         title = "GitHub"
         weight = 6
     [languages.en.params]
@@ -99,7 +99,7 @@ enableEmoji = true
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "ns-cn's Blog"
+        title = "lmj-cn's Blog"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
@@ -159,7 +159,7 @@ enableEmoji = true
           paginate = 6
       # Social config in home page
       [languages.en.params.social]
-        GitHub = "ns-cn"
+        GitHub = "lmj-cn"
         Linkedin = ""
         Twitter = "xxxx"
         Instagram = "xxxx"
@@ -220,7 +220,7 @@ enableEmoji = true
         XMPP = ""
         Matrix = ""
         Bilibili = ""
-        Email = "ns-cn@qq.com"
+        Email = "563935973@qq.com"
         RSS = true
         [languages.en.params.social.Mastodon]
           id = "@xxxx"
@@ -313,7 +313,7 @@ enableEmoji = true
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://github.com/ns-cn"
+        url = "https://github.com/lmj-cn"
         title = "GitHub"
         weight = 9
     [languages.zh-cn.params]
@@ -324,7 +324,7 @@ enableEmoji = true
       # 应用图标配置
       [languages.zh-cn.params.app]
         # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-        title = "ns-cn"
+        title = "lmj-cn"
         # 是否隐藏网站图标资源链接
         noFavicon = false
         # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
@@ -384,7 +384,7 @@ enableEmoji = true
           paginate = 20
       # 主页的社交信息设置
       [languages.zh-cn.params.social]
-        GitHub = "ns-cn"
+        GitHub = "lmj-cn"
         Linkedin = ""
         Twitter = ""
         Instagram = ""
@@ -446,7 +446,7 @@ enableEmoji = true
         XMPP = ""
         Matrix = ""
         Bilibili = ""
-        Email = "ns-cn@qq.com"
+        Email = "563935973@qq.com"
         RSS = true
 
   [languages.fr]
@@ -521,7 +521,7 @@ enableEmoji = true
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
   # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
-  gitRepo = "https://github.com/ns-cn/ns-cn.github.io"
+  gitRepo = "https://github.com/lmj-cn/lmj-cn.github.io"
   # which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
   # 哪种哈希函数用来 SRI, 为空时表示不使用 SRI ("sha256", "sha384", "sha512", "md5")
   fingerprint = ""
@@ -549,7 +549,7 @@ enableEmoji = true
       logo = ""
       # title name
       # 标题名称
-      name = "ns-cn"
+      name = "lmj-cn"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       #pre = "<i class='far fa-kiss-wink-heart fa-fw'></i>"
@@ -965,8 +965,8 @@ enableEmoji = true
 # Author config
 # 作者配置
 [author]
-  name = "ns-cn"
-  email = "ns-cn@qq.com"
+  name = "lmj-cn"
+  email = "lmj-cn@qq.com"
   link = ""
 
 # Sitemap config
