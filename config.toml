@@ -7,7 +7,7 @@ defaultContentLanguage = "zh-cn"
 theme = "FixIt"
 # themes directory
 # 主题目录
-themesDir = "themes"
+themesDir = "PaperMod"
 
 # website title
 # 网站标题
