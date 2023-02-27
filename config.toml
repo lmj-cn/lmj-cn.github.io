@@ -4,7 +4,7 @@ baseURL = "https://lmj-cn.github.io"
 defaultContentLanguage = "zh-cn"
 # theme
 # 主题
-theme = "FixIt"
+theme = "PaperMod"
 # themes directory
 # 主题目录
 themesDir = "PaperMod"
