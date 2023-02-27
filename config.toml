@@ -313,7 +313,7 @@ enableEmoji = true
         pre = "<i>唐毓俊</i>"
         post = ""
         name = ""
-        url = "https://tangyujun.com/"
+        url = "http://tangyujun.com/"
         title = "唐毓俊个人站"
         weight = 9
     [languages.zh-cn.params]
