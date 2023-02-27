@@ -137,8 +137,14 @@ git push
 仓库已包含自动部署hugo的Github Action，可在提交时自动部署到GithubPages。
 
 ## 四、主题定制
-> 切换主题只需要修改.gitmodules文件和config.toml文件的`theme = "FixIt"`处。
-可参考官方收录的主题：[Hugo Themes](https://themes.gohugo.io/)，主题使用可参考对应仓库的说明，本站使用主题：[FixIt](https://github.com/hugo-fixit/FixIt)
+> 可参考官方收录的主题：[Hugo Themes](https://themes.gohugo.io/)，主题使用可参考对应仓库的说明，本站使用主题：[FixIt](https://github.com/hugo-fixit/FixIt)
+以本站为例，在本地仓库目录执行以下命令，并且修改config.toml文件的theme = "FixIt"处，即可修改主题。
+```Bash
+git init
+git submodule add https://github.com/hugo-fixit/FixIt.git themes/FixIt
+git commit -a -m "fixit"
+git push
+```
 
 ## 五、高级使用
 
