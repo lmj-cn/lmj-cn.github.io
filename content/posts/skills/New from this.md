@@ -145,10 +145,6 @@ git commit -a -m "fixit"
 git push
 ```
 
-## 五、高级使用
-
-[MarkDown进阶之Mermaid绘图](/posts/thinreadline/graph-with-markdown/)
-
 更多组件使用：[FixIt文档](https://fixit.lruihao.cn/zh-cn/)
 
 [^1]: [github怎么绑定自己的域名？](https://www.zhihu.com/question/31377141)
