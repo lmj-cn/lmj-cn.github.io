@@ -68,3 +68,25 @@ cluster info
 cluster nodes # 查看主从节点和槽点范围
 ```
 ## 三、集群操作
+### 1. 主从容错切换
+停止一个master，根据`cluster nodes`观察结果。结论：slave节点自动成为master节点，启动之前停止的节点，会自动加入集群。
+### 2. 主从扩容
+新建两个节点6387、6388。
+```bash
+redis-cli --cluster add-node 127.0.0.1:6387 127.0.0.1:6381 # 将6387节点作为master加入原集群。
+redis-cli --cluster check 127.0.0.1:6381 # 检查是否加入该集群
+redis-cli --cluster reshard 127.0.0.1:6381 # 重新分配槽号
+redis-cli --cluster check 127.0.0.1:6381 # 查看分配情况
+redis-cli --cluster add-node 127.0.0.1:6388 127.0.0.1:6387 --cluster-slave --cluster-master-id {id}
+redis-cli --cluster check 127.0.0.1:6381 # 查看分配情况
+```
+
+### 3. 主从缩容
+将6387、6388两个节点下线
+```bash
+redis-cli --cluster check 127.0.0.1:6388 # 检查集群情况，获得节点id
+redis-cli --cluster del-node 127.0.0.1:6388 {id} # 删除节点6388
+redis-cli --cluster reshard 127.0.0.1:6381 # 将6387的槽号清空，重新分配给master（会弹出命令选择分配和删除的id）
+redis-cli --cluster check 127.0.0.1:6381 # 检查集群，确认已经清空
+redis-cli --cluster del-node 127.0.0.1:6387 {id} # 删除节点6387
+```
