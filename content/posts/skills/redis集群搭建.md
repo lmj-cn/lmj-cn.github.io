@@ -43,4 +43,28 @@ docker run -d --name redis-node-6 --net host --privileged=true -v ~/Docker/redis
 |--name redis-node-1|容器命名|
 |--net host|容器使用宿主机的ip和端口|
 |--privileged=true|获取宿主机root权限|
+|-v ~/Docker/redis/share/redis-node-1:/data|挂载宿主机目录到docker内部|
+|redis:latest|redis镜像和版本号|
+|--cluster-enabled yes|开启redis集群|
+|--appendonly yes|开启持久化|
+|--port 6381|redis端口号|
+### 3. 构建集群关系
+* 进入其中一个容器
+```bash
+docker exec -it redis-node-1 bash
+```
+* 构建关系
+```bash
+redis-cli --cluster create 127.0.0.1:6381 127.0.0.1:6382 127.0.0。1:6383 127.0.0.1:6384 127.0.0.1:6385 127.0.0.1:6386 --cluster-replicas 1
+```
+> --cluster-replicas 1 表示集群主节点需要多少个从节点，这里用了6台，即3台服务器构成集群，每台服务器设置1台从服务器
 
+* 查看集群状态
+
+到这里redis集群已经搭建完成了，我们可以对集群做一系列的操作了。
+```bash
+redis-cli -h 127.0.0.1 -p 6381 # 进入端口为6381的redis容器
+cluster info
+cluster nodes # 查看主从节点和槽点范围
+```
+## 三、集群操作
