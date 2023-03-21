@@ -36,4 +36,41 @@ sequenceDiagram
     未修改(unmodified)->>未跟踪(untracked): Remove the file
     已暂存(staged)->>未修改(unmodified): Commit the file
 {{< /mermaid >}}
+### 1.3 安装
+|系统|方式|
+|:--:|:--:|
+|Linux|`yum install git-all`或者`apt install git-all`|
+|Mac|通过安装Xcode命令行工具安装|
+|Windows|官网下载|
+|源码|参考官方文档|
+### 1.4 配置
+|层级|文件位置|配置参数|
+|:--:|:--:|:--:|
+|系统级|`/etc/gitconfig`|`--system`|
+|用户级|`~/.gitconfig`或者`~/.config/git/config`|`--global`|
+|仓库级|`.git/config`||
+配置用户身份
+```bash
+git config --global user.name "lmj-cn"
+git config --global user.email "563935973@qq.com"
+```
+配置编辑器
+```bash
+git config --global core.editor emacs
+```
+检查个人配置
+```bash
+# 列举所有配置
+git config --list
+# 查看配置的用户名
+git config user.name
+# 查看config帮助文档
+git help config
+```
 ## 二、基础操作
+### 2.1 git commit
+创建一个新的提交记录
+```bash
+git commit -a "messages"
+git commit -a -m "messages" # 自动把所有已跟踪（暂存和已修改）的文件
+```
