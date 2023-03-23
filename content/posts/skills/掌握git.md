@@ -24,6 +24,7 @@ draft: false
 * 权限管理不够精细。
 ### 1.2 GIT入门
 git工作目录下面的所有文件分为两种情况：以跟踪和未跟踪。
+
 {{< mermaid >}}
 sequenceDiagram
     participant 未跟踪(untracked)
@@ -36,7 +37,9 @@ sequenceDiagram
     未修改(unmodified)->>未跟踪(untracked): Remove the file
     已暂存(staged)->>未修改(unmodified): Commit the file
 {{< /mermaid >}}
+
 > 已修改的文件也可以使用git add添加到暂存区，再修改后，可以用暂存区的文件还原（checkout），git add和git stage是同一个命令
+
 ### 1.3 安装
 |系统|方式|
 |:--:|:--:|
