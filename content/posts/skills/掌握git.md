@@ -148,4 +148,19 @@ git checkout main^2
 ```
 > 父提交与当前提交连接的直线是main^1, 曲线是main^2
 ## 四、远程操作
-未完待续
+### git clone
+本地创建一个远程仓库的拷贝
+```bash
+git clone https://github.com/lmj-cn/lmj-cn.github.io.git
+```
+### git fetch
+git fetch 完成了仅有的但是很重要的两步:
+* 从远程仓库下载本地仓库中缺失的提交记录
+* 更新远程分支指针(如 o/main)
+> 实际上将本地仓库中的远程分支更新成了远程仓库相应分支最新的状态。不会改变本地仓库的状态.
+
+### git pull
+git pull命令等于先后使用git fetch和git merge命令
+```bash
+git pull --rebase # git fetch + git rebase
+```
