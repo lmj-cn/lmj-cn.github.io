@@ -4,7 +4,7 @@ date: 2023-02-21T05:53:46Z
 draft: false
 tags: [DoItYourself]
 categories: [Skills]
-url: /posts/skills/new-from-this/
+url: /posts/skills/newfromthis/
 ---
 
 > 本文基于仓库[lmj-cn/lmj-cn.github.io](https://github.com/lmj-cn/lmj-cn.github.io)和[ns-cn/ns-cn.github.io](https://github.com/ns-cn/ns-cn.github.io)使用Hugo和Github Pages搭建个人博客

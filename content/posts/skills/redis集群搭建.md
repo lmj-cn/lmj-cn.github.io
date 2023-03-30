@@ -5,7 +5,7 @@ date: 2023-03-17T10:12:29+08:00
 draft: false
 tags: [DoItYourself]
 categories: [Skills]
-url: /posts/skills/Redis/
+url: /posts/skills/redis/
 ---
 
 ## 一、Redis集群
